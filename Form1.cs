@@ -31,6 +31,11 @@ namespace CrawlingPractice
             {
             Console.WriteLine($"tdevelop {i} 커밋 할꺼임");
             }
+
+            
+
+            Console.WriteLine($"비정기 11차 이슈 모두 해결후 푸쉬합니다.");
+            
         }
     }
 }
