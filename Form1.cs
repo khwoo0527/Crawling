@@ -23,11 +23,14 @@ namespace CrawlingPractice
         {
             Console.WriteLine("커밋하고 푸쉬가 되고 있는거 맞어?? 깃이랑 깃허브랑은 좀 다른가?");
             
-            //Devlop 수정
+            
+            
             for(int i = 0; i < 5; i++)
             {
             Console.WriteLine($"tdevelop {i} 커밋 할꺼임");
             }
+
+            Console.WriteLine("누군가 develope 에서 수정을 막하겠지??");
         }
     }
 }
